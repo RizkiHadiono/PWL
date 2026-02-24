@@ -1,14 +1,14 @@
 ## Halaman Home
-![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-1.png)
+![image alt]([https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-1.png](https://github.com/RizkiHadiono/PWL/blob/8b897421c9c315d650bfb3f274f5a857e561dee3/Tugas_Jobsheet-2-POS/Halaman%20Home.png))
 
 ## Halaman Products
-![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum2.png)
+![image alt]([https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum2.png](https://github.com/RizkiHadiono/PWL/blob/8b897421c9c315d650bfb3f274f5a857e561dee3/Tugas_Jobsheet-2-POS/Halaman%20Penjualan.png))
 
 ## Halaman User
-![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum3.png)
+![image alt]([https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum3.png](https://github.com/RizkiHadiono/PWL/blob/8b897421c9c315d650bfb3f274f5a857e561dee3/Tugas_Jobsheet-2-POS/Halaman%20Products.png))
 
 ## Halaman Penjualan
-![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-2.png)
+![image alt]([https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-2.png](https://github.com/RizkiHadiono/PWL/blob/4ec275718a99bc9023c9b21c7a1a812ff836e792/Tugas_Jobsheet-2-POS/Halaman%20User.png))
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
