@@ -1,3 +1,16 @@
+## Halaman Home
+![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-1.png)
+
+## Halaman Products
+![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum2.png)
+
+## Halaman User
+![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum3.png)
+
+## Halaman Penjualan
+![image alt](https://github.com/RizkiHadiono/PWL/blob/d5e4b4d56e408f670485fe8b21ff05fb1f2fe0d1/Jobsheet-2/Praktikum1-2.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
