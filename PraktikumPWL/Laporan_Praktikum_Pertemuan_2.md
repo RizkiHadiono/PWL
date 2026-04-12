@@ -56,8 +56,6 @@ protected static string|BackedEnum|null $navigationIcon = Heroicon::UserGroup;
 
 ## Hasil Praktikum (Screenshot)
 
-> **Catatan:**
-
 **1. Screenshot Halaman List User**
 ![alt text](image.png)
 
@@ -69,7 +67,7 @@ protected static string|BackedEnum|null $navigationIcon = Heroicon::UserGroup;
 
 ---
 
-## D. Jawaban Analisis & Diskusi
+## Jawaban Analisis & Diskusi
 
 1. **Mengapa Filament dapat membuat CRUD tanpa banyak coding?**
    **Jawab:** Karena Filament menggunakan ekosistem TALL Stack (Tailwind, Alpine.js, Laravel, Livewire) dan menyediakan kelas object-oriented (Forms & Tables Schema). Filament menggenerasikan komponen View (UI) dan logika Controller secara dinamis via skema kelas tersebut, sehingga developer tidak perlu menulis *boilerplate* kode HTML/Blade dan routing CRUD secara manual.
