@@ -44,15 +44,15 @@ Filament membutuhkan ekstensi `intl` agar bisa memformat data nilai currency, st
 
 ---
 
-## Hasil Praktikum (Screenshot)
+## Hasil Praktikum
 
-**1. Screenshot Halaman Login**  
+**1. Halaman Login**  
 ![alt text](image-7.png)
 
-**2. Screenshot Dashboard**  
+**2. Dashboard**  
 ![alt text](image-8.png)
 
-**3. Screenshot Data User di Database**  
+**3. Data User di Database**  
 ![alt text](image-9.png)
 
 ---

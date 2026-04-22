@@ -34,15 +34,15 @@ Lalu pada file `CategoriesTable.php`, record dimunculkan dengan pemanggilan Text
 
 ---
 
-## Hasil Praktikum (Screenshot Tugas)
+## Hasil Praktikum
 
-**1. Screenshot Struktur Tabel Database**  
+**1. Struktur Tabel Database**  
 ![alt text](image-4.png)
 
-**2. Screenshot Form Category**  
+**2. Form Category**  
 ![alt text](image-5.png)
 
-**3. Screenshot List Category**  
+**3. List Category**  
 ![alt text](image-6.png)
 
 ---

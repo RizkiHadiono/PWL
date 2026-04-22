@@ -54,15 +54,15 @@ Mengubah ikon default `OutlinedRectangleStack` menjadi ikon **UserGroup** menggu
 protected static string|BackedEnum|null $navigationIcon = Heroicon::UserGroup;
 ```
 
-## Hasil Praktikum (Screenshot)
+## Hasil Praktikum
 
-**1. Screenshot Halaman List User**
+**1. Halaman List User**
 ![alt text](image.png)
 
-**2. Screenshot Halaman Create User**
+**2. Halaman Create User**
 ![alt text](image-2.png)
 
-**3. Screenshot Database**
+**3. Database**
 ![alt text](image-3.png)
 
 ---
