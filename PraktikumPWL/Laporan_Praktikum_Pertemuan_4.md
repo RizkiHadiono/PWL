@@ -59,7 +59,7 @@ protected function getRedirectUrl(): string
 ![alt text](image-10.png)
 
 **2. Tabel Post**  
-![alt text](image-11.png)
+![alt text](image-21.png)
 
 **3. Struktur Folder Storage**  
 ![alt text](image-12.png)

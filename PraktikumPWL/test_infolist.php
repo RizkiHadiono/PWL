@@ -1,0 +1,1 @@
+<?php require 'vendor/autoload.php'; \ = require_once 'bootstrap/app.php'; \->make(Illuminate\Contracts\Console\Kernel::class)->bootstrap(); try { App\Filament\Resources\Products\ProductResource::infolist(Filament\Schemas\Schema::make()); echo 'SUCCESS'; } catch (\Throwable \) { echo 'ERROR: ' . \->getMessage(); }

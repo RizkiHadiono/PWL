@@ -1,5 +1,5 @@
 # Laporan Praktikum Pemrograman Web Lanjut
-**Jobsheet-6 Pertemuan 5 – Custom Layout Form dengan Section & Group di Filament**
+**JobSheet-6 Pertemuan 5 – Custom Layout Form dengan Section & Group di Filament**
 
 **Nama:** [Mokhamad Rizki Hadiono Singgih]  
 **NIM:** [ 244107020198 ]  
