@@ -16,13 +16,19 @@ class PostsTable
     public static function configure(Table $table): Table
     {
         return $table
+            ->defaultSort('created_at', 'desc')
             ->columns([
-                TextColumn::make('title')->searchable(),
-                TextColumn::make('slug'),
-                TextColumn::make('category.name'),
+                TextColumn::make('title')->searchable()->sortable(),
+                TextColumn::make('slug')->sortable(),
+                TextColumn::make('category.name')->sortable(),
                 ColorColumn::make('color'),
                 ImageColumn::make('image')->disk('public'),
                 IconColumn::make('published')->boolean(),
+                TextColumn::make('created_at')
+                    ->label('Created At')
+                    ->dateTime('d M Y H:i')
+                    ->sortable()
+                    ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 //

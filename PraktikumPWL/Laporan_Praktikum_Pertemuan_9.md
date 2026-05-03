@@ -78,8 +78,6 @@ Tabs::make('Product Tabs')
 
 ## Hasil Praktikum (Screenshot Tabs View)
 
-* *(Silakan ganti komen orientasi vertical di kode backend `->vertical()` dengan meng-comment-nya sejenak untuk mendapatkan hasil fotonya, lalu kembalikan untuk foto vertikal).*
-
 * **Tabs Horizontal:**  
 ![alt text](image-27.png)
 ![alt text](image-28.png)
