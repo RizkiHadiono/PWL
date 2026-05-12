@@ -27,10 +27,10 @@ Pada `app/Filament/Resources/Posts/Schemas/PostForm.php`, saya merekonstruksi ul
 ## Hasil Praktikum
 
 * **Form Sebelum Layout (Di Jobsheet Sebelumnya)**:  
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 * **Form Sesudah Layout (Tugas)**:  
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 ---
 

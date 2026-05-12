@@ -60,13 +60,13 @@ Saya melakukan integrasi `->sortable()` tidak hanya pada kolom teks konvensional
 ## Hasil Praktikum
 
 * **Sorting Title Ascending (A-Z):** 
-![alt text](image-35.png)
+![alt text](images/image-35.png)
 
 * **Sorting Title Descending (Z-A):**  
-![alt text](image-36.png) 
+![alt text](images/image-36.png) 
 
 * **Sorting Date Descending (Default Terbaru):**  
-![alt text](image-37.png)
+![alt text](images/image-37.png)
 
 ---
 

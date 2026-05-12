@@ -47,13 +47,13 @@ Filament membutuhkan ekstensi `intl` agar bisa memformat data nilai currency, st
 ## Hasil Praktikum
 
 **1. Halaman Login**  
-![alt text](image-7.png)
+![alt text](images/images/image-7.png)
 
 **2. Dashboard**  
-![alt text](image-8.png)
+![alt text](images/images/image-8.png)
 
 **3. Data User di Database**  
-![alt text](image-9.png)
+![alt text](images/images/image-9.png)
 
 ---
 

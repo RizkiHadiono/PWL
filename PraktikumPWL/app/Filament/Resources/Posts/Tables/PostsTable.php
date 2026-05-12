@@ -21,12 +21,18 @@ class PostsTable
         return $table
             ->defaultSort('created_at', 'desc')
             ->columns([
-                TextColumn::make('title')->searchable()->sortable(),
-                TextColumn::make('slug')->searchable()->sortable(),
-                TextColumn::make('category.name')->searchable()->sortable(),
-                ColorColumn::make('color'),
-                ImageColumn::make('image')->disk('public'),
-                IconColumn::make('published')->boolean(),
+                TextColumn::make('id')
+                    ->label('ID')
+                    ->toggleable(isToggledHiddenByDefault: true),
+                TextColumn::make('title')->searchable()->sortable()->toggleable(),
+                TextColumn::make('slug')->searchable()->sortable()->toggleable(),
+                TextColumn::make('category.name')->searchable()->sortable()->toggleable(),
+                ColorColumn::make('color')->toggleable(),
+                ImageColumn::make('image')->disk('public')->toggleable(),
+                TextColumn::make('tags')
+                    ->label('Tags')
+                    ->toggleable(isToggledHiddenByDefault: true),
+                IconColumn::make('published')->boolean()->toggleable(),
                 TextColumn::make('created_at')
                     ->label('Created At')
                     ->dateTime('d M Y H:i')

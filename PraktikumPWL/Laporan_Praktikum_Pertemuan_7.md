@@ -66,16 +66,16 @@ Step::make('Media & Status')
 ## Hasil Praktikum
 
 * **Wizard Step 1:**  
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
 * **Wizard Step 2:**  
-![alt text](image-18.png)
+![alt text](images/image-18.png)
 
 * **Wizard Step 3:**  
-![alt text](image-19.png)
+![alt text](images/image-19.png)
 
 * **Tabel Product:**  
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
 ---
 

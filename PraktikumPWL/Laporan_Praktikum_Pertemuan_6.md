@@ -54,13 +54,13 @@ FileUpload::make('image')
 ## Hasil Praktikum (Screenshot Tugas / Uji Coba Error)
 
 * **Error *Required*:**  
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 * **Error *Min Length*:**  
-![alt text](image-15.png)  
+![alt text](images/image-15.png)  
 
 * **Error *Unique*:**  
-![alt text](image-16.png) 
+![alt text](images/image-16.png) 
 
 ---
 

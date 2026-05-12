@@ -75,15 +75,15 @@ Section::make('Media & Status')
 ## Hasil Praktikum 
 
 * **Section Product Info:**  
-![alt text](image-23.png)
+![alt text](images/image-23.png)
 
-![alt text](image-24.png)
+![alt text](images/image-24.png)
 
 * **Section Pricing & Stock:**  
-![alt text](image-25.png)
+![alt text](images/image-25.png)
 
 * **Section Media & Status:**  
-![alt text](image-26.png)
+![alt text](images/image-26.png)
 
 ---
 

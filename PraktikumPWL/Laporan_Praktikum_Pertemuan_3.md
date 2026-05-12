@@ -37,13 +37,13 @@ Lalu pada file `CategoriesTable.php`, record dimunculkan dengan pemanggilan Text
 ## Hasil Praktikum
 
 **1. Struktur Tabel Database**  
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 **2. Form Category**  
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 **3. List Category**  
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 ---
 

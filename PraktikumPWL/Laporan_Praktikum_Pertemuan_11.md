@@ -52,13 +52,13 @@ SelectFilter::make('category_id')
 ## Hasil Praktikum
 
 * **Screenshot Search Title:**  
-![alt text](image-38.png)
+![alt text](images/image-38.png)
 
 * **Screenshot Filter Tanggal (Date):**  
-![alt text](image-39.png)  
+![alt text](images/image-39.png)  
 
 * **Screenshot Filter Kategori (Select):**  
-![alt text](image-40.png)
+![alt text](images/image-40.png)
 
 ---
 

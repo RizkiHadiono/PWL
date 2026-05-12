@@ -57,13 +57,13 @@ protected static string|BackedEnum|null $navigationIcon = Heroicon::UserGroup;
 ## Hasil Praktikum
 
 **1. Halaman List User**
-![alt text](image.png)
+![alt text](images/image.png)
 
 **2. Halaman Create User**
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 **3. Database**
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ---
 

@@ -56,13 +56,13 @@ protected function getRedirectUrl(): string
 ## Hasil Praktikum
 
 **1. Form Create Post**  
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 **2. Tabel Post**  
-![alt text](image-21.png)
+![alt text](images/image-21.png)
 
 **3. Struktur Folder Storage**  
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 ---
 

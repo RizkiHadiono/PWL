@@ -79,17 +79,17 @@ Tabs::make('Product Tabs')
 ## Hasil Praktikum (Screenshot Tabs View)
 
 * **Tabs Horizontal:**  
-![alt text](image-27.png)
-![alt text](image-28.png)
-![alt text](image-29.png)
+![alt text](images/image-27.png)
+![alt text](images/image-28.png)
+![alt text](images/image-29.png)
 
 * **Tabs Vertical:**  
-![alt text](image-30.png)
-![alt text](image-31.png)
-![alt text](image-32.png)
+![alt text](images/image-30.png)
+![alt text](images/image-31.png)
+![alt text](images/image-32.png)
 
 * **Tab dengan Badge Dinamis:**  
-![alt text](image-33.png)
+![alt text](images/image-33.png)
 
 ---
 
